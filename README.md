@@ -1,5 +1,5 @@
 # tugas_reactJS
-Repo ini dibuat oleh Rizaldy Rafa Akhmad untuk meng-upload semua tugas tugas ReactJS
+Repo ini dibuat oleh Rizaldy Rafa Akhmad untuk meng-upload semua tugas tugas ReactJS dan ReactJS Lanjutan
 
 INFO TAMBAHAN
 Untuk Tugas 1 ReactJS, file & folder yg mengandung tugas 1 itu adalah:
